@@ -5,7 +5,7 @@
 ---
 
 ## 🌍 Descripción del Equipo 
-Somos el **Equipo 10** del curso **[Aquí va el Nombre del Curso 202X-1]**, conformado por estudiantes de las carreras de Ingeniería Ambiental, Informática e Industrial.  
+Somos el **Equipo 10** del curso **Fundamentos de Diseño 2026-2**, conformado por estudiantes de las carreras de Ingeniería Informática e Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 ---
