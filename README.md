@@ -27,12 +27,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ---
 
 ## 📸 Fotografía del Equipo  
-<p align="center">
-  <!-- AQUÍ VA LA FOTOGRAFÍA GENERAL DEL EQUIPO COMPLETO -->
-  <img width="800" alt="fotografía_equipo_10" src="Recursos/Imágenes/equipo.png" />
-  <br>
-  <em>Figura 1. Fotografía del Equipo 10</em>
-</p>
+<img width="2560" height="1440" alt="WIN_20260820_12_24_10_Pro" src="https://github.com/user-attachments/assets/4ed911cf-75f8-4e00-ab81-e8604be35811" />
 
 ---
 
