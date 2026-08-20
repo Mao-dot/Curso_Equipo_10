@@ -15,10 +15,9 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 <p align="center">
   <img src="Recursos/Imágenes/ODS/ODS_3.png" width="130" alt="ODS 3: Salud y Bienestar" />
-  <img src="Recursos/Imágenes/ODS/ODS_6.png" width="130" alt="ODS 6: Agua Limpia y Saneamiento" />
   <img src="Recursos/Imágenes/ODS/ODS_9.png" width="130" alt="ODS 9: Industria, Innovación e Infraestructura" />
   <img src="Recursos/Imágenes/ODS/ODS_11.png" width="130" alt="ODS 11: Ciudades y Comunidades Sostenibles" />
-  <img src="Recursos/Imágenes/ODS/ODS_13.png" width="130" alt="ODS 13: Acción por el Clima" />
+  <img src="Recursos/Imágenes/ODS/ODS_12.png" width="130" alt="ODS 12: Producción y Consumo Responsables" />
 </p>
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
@@ -44,12 +43,11 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |:---:|--------|-----|-----------|
-| <img src="Recursos/Imágenes/katherine_thumb.png" width="90"/> | **Katherine** | Líder del equipo | Innovación social, sostenibilidad y gestión de proyectos |
-| <img src="Recursos/Imágenes/lucero_thumb.png" width="90"/> | **Lucero** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="Recursos/Imágenes/mao_thumb.png" width="90"/> | **Mao** | Programador / Modelador | Programación, análisis de datos, simulación |
-| <img src="Recursos/Imágenes/renzo_thumb.png" width="90"/> | **Renzo** | Diseñador / Encargado de documentación | Diseño de prototipos, comunicación científica y redacción técnica |
-
-> ℹ️ *Nota: La información detallada y los archivos de imagen se gestionan en el directorio [`FOTOS NOMBRES Y DEMAS INFORMACION`](./FOTOS%20NOMBRES%20Y%20DEMAS%20INFORMACION/INFO.README).*
+| <img src="Recursos/Imágenes/mao_thumb.png" width="90"/> | **Mao Arceni, Capcha Pumacahua** | Líder del equipo | Programación, análisis de datos, simulación |
+| <img src="Recursos/Imágenes/katherine_thumb.png" width="90"/> | **Cruz Oyarce Katherine Jireh** | Integrante del equipo | Innovación social, sostenibilidad y gestión de proyectos |
+| <img src="Recursos/Imágenes/lucero_thumb.png" width="90"/> | **Lucero Sofía Tarazona Gonzales** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="Recursos/Imágenes/renzo_thumb.png" width="90"/> | **Renzo Jair Cruz Vega** | Diseñador / Encargado de documentación | Diseño de prototipos, comunicación científica y redacción técnica |
+| <img src="Recursos/Imágenes/integrante1.png" width="90"/> | **Julio Maguiña** | --- | --- |
 
 ---
 
