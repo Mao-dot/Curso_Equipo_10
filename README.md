@@ -1,5 +1,5 @@
-# Equipo 10 - [Aquí va el Nombre del Curso]
-### Carrera de Ingeniería Ambiental / Informática / Industrial  
+# Equipo 10 - Fundamentos de Diseño
+### Carrera de Ingeniería Informática / Industrial  
 **Universidad Peruana Cayetano Heredia**
 
 ---
