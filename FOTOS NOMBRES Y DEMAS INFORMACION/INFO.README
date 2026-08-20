@@ -1,0 +1,36 @@
+# 📁 Guía de Recursos: Fotos, Nombres y Demás Información (Equipo 10)
+
+En esta carpeta se organizan las fotos de perfil de los integrantes del equipo y las insignias gráficas de los Objetivos de Desarrollo Sostenible (ODS) utilizadas en la plantilla del proyecto.
+
+---
+
+## 📌 Aquí van las Fotos de los Integrantes
+
+Aquí se ubican los archivos de imagen originales de cada integrante del equipo:
+
+| Archivo | Integrante | Rol Sugerido | Ruta en Proyecto |
+|---------|------------|--------------|------------------|
+| `Katherine.jpeg` | **Katherine** | Líder del Equipo | `Recursos/Imágenes/Katherine.jpeg` |
+| `Lucero.jpeg` | **Lucero** | Responsable de Investigación | `Recursos/Imágenes/Lucero.jpeg` |
+| `Mao.jpeg` | **Mao** | Programador / Modelador | `Recursos/Imágenes/Mao.jpeg` |
+| `Renzo.jpeg` | **Renzo** | Diseñador / Documentación | `Recursos/Imágenes/Renzo.jpeg` |
+
+---
+
+## 🌍 Aquí van las Imágenes de los ODS
+
+Dentro de la subcarpeta `ODS/` se encuentran las insignias gráficas oficiales generadas para los Objetivos de Desarrollo Sostenible del proyecto:
+
+- **ODS 3:** `ODS/ODS_3.png` — *Salud y Bienestar*
+- **ODS 6:** `ODS/ODS_6.png` — *Agua Limpia y Saneamiento*
+- **ODS 9:** `ODS/ODS_9.png` — *Industria, Innovación e Infraestructura*
+- **ODS 11:** `ODS/ODS_11.png` — *Ciudades y Comunidades Sostenibles*
+- **ODS 13:** `ODS/ODS_13.png` — *Acción por el Clima*
+
+---
+
+## 📝 Instrucciones para Actualizar
+
+1. **Fotos de Integrantes:** Reemplace o agregue las imágenes `.jpeg` / `.png` en esta carpeta y sincronícelas en `Recursos/Imágenes/`.
+2. **Plantilla README:** El archivo principal [`README.md`](../README.md) utiliza estas imágenes en la tabla de integrantes y en la sección de ODS.
+3. **Roles e Intereses:** Edite la tabla en `README.md` si se asignan nuevos roles o intereses específicos a cada miembro del equipo.
