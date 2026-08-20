@@ -14,17 +14,15 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 *(Aquí van los Objetivos de Desarrollo Sostenible seleccionados para el proyecto)*
 
 <p align="center">
-  <img src="Recursos/Imágenes/ODS/ODS_3.png" width="130" alt="ODS 3: Salud y Bienestar" />
-  <img src="Recursos/Imágenes/ODS/ODS_9.png" width="130" alt="ODS 9: Industria, Innovación e Infraestructura" />
+  <img src="Recursos/Imágenes/ODS/ODS_7.png" width="130" alt="ODS 7: Energía Asequible y No Contaminante" />
   <img src="Recursos/Imágenes/ODS/ODS_11.png" width="130" alt="ODS 11: Ciudades y Comunidades Sostenibles" />
   <img src="Recursos/Imágenes/ODS/ODS_12.png" width="130" alt="ODS 12: Producción y Consumo Responsables" />
 </p>
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- **ODS 3:** Salud y Bienestar  
-- **ODS 9:** Industria, Innovación e Infraestructura  
+- **ODS 7:** Energía Asequible y No Contaminante  
 - **ODS 11:** Ciudades y Comunidades Sostenibles  
-- **ODS 12:** Producción y consumo responsable  
+- **ODS 12:** Producción y Consumo Responsables  
 
 ---
 
