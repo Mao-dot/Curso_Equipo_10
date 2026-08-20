@@ -42,9 +42,9 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Foto | Nombre | Rol | Intereses |
 |:---:|--------|-----|-----------|
 | <img src="Recursos/Imágenes/mao_thumb.png" width="90"/> | **Mao Arceni, Capcha Pumacahua** | Líder del equipo | Programación, análisis de datos, simulación |
-| <img src="Recursos/Imágenes/katherine_thumb.png" width="90"/> | **Cruz Oyarce Katherine Jireh** | Integrante del equipo | Innovación social, sostenibilidad y gestión de proyectos |
+| <img src="Recursos/Imágenes/katherine_thumb.png" width="90"/> | **Cruz Oyarce Katherine Jireh** | Encargado de documentación  | comunicación científica y redacción técnica |
 | <img src="Recursos/Imágenes/lucero_thumb.png" width="90"/> | **Lucero Sofía Tarazona Gonzales** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="Recursos/Imágenes/renzo_thumb.png" width="90"/> | **Renzo Jair Cruz Vega** | Diseñador / Encargado de documentación | Diseño de prototipos, comunicación científica y redacción técnica |
+| <img src="Recursos/Imágenes/renzo_thumb.png" width="90"/> | **Renzo Jair Cruz Vega** | Diseñador | Diseño de prototipos | Diseño de prototipos, creatividad aplicada |
 | <img src="Recursos/Imágenes/integrante1.png" width="90"/> | **Julio Maguiña** | --- | --- |
 
 ---
