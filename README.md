@@ -1,6 +1,13 @@
-# Equipo 10 - Fundamentos de Diseño
-### Carrera de Ingeniería Informática / Industrial
-**Universidad Peruana Cayetano Heredia**
+<p align="center">
+  <img src="Recursos/Imágenes/vista-previa-social.jpg" width="100%" alt="Equipo 10 — Fundamentos de Diseño" />
+</p>
+
+<h1 align="center">Equipo 10 — Fundamentos de Diseño</h1>
+
+<p align="center">
+  <strong>Ingeniería Informática e Ingeniería Industrial · 2026-2</strong><br />
+  Universidad Peruana Cayetano Heredia
+</p>
 
 ---
 
