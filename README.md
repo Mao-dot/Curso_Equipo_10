@@ -32,8 +32,6 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ---
 
 ## 👥 Integrantes del Equipo
-*(Aquí van los nombres, fotografías, roles e intereses de cada integrante)*
-
 | Foto | Nombre | Rol | Intereses |
 |:---:|--------|-----|-----------|
 | <img src="Recursos/Imágenes/Integrantes/mao.png" width="150" alt="Mao Arceni Capcha Pumacahua" /> | **Mao Arceni Capcha Pumacahua** | Líder del equipo | Programación, análisis de datos, simulación |
