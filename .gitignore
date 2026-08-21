@@ -1,0 +1,17 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Configuración local de editores
+.idea/
+.vscode/
+
+# Archivos temporales y copias de Office
+*.tmp
+*.temp
+~$*
+
+# Salidas locales de compilación
+build/
+dist/

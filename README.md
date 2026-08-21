@@ -1,12 +1,12 @@
 # Equipo 10 - Fundamentos de Diseño
-### Carrera de Ingeniería Informática / Industrial  
+### Carrera de Ingeniería Informática / Industrial
 **Universidad Peruana Cayetano Heredia**
 
 ---
 
-## 🌍 Descripción del Equipo 
-Somos el **Equipo 10** del curso **Fundamentos de Diseño 2026-2**, conformado por estudiantes de las carreras de Ingeniería Informática e Industrial.  
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
+## 🌍 Descripción del Equipo
+Somos el **Equipo 10** del curso **Fundamentos de Diseño 2026-2**, conformado por estudiantes de las carreras de Ingeniería Informática e Industrial.
+Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 
 ---
 
@@ -19,30 +19,32 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
   <img src="Recursos/Imágenes/ODS/ODS_12.png" width="130" alt="ODS 12: Producción y Consumo Responsables" />
 </p>
 
-Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- **ODS 7:** Energía Asequible y No Contaminante  
-- **ODS 11:** Ciudades y Comunidades Sostenibles  
-- **ODS 12:** Producción y Consumo Responsables  
+Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**
+- **ODS 7:** Energía Asequible y No Contaminante
+- **ODS 11:** Ciudades y Comunidades Sostenibles
+- **ODS 12:** Producción y Consumo Responsables
 
 ---
 
-## 📸 Fotografía del Equipo  
-<img width="2560" height="1440" alt="WIN_20260820_12_24_10_Pro" src="https://github.com/user-attachments/assets/4ed911cf-75f8-4e00-ab81-e8604be35811" />
+## 📸 Fotografía del Equipo
+<p align="center">
+  <img src="Recursos/Imágenes/equipo.jpg" width="900" alt="Fotografía del Equipo 10" />
+</p>
 
 ---
 
-## 👥 Integrantes del Equipo  
+## 👥 Integrantes del Equipo
 *(Aquí van los nombres, fotografías, roles e intereses de cada integrante)*
 
 | Foto | Nombre | Rol | Intereses |
 |:---:|--------|-----|-----------|
-| <img src="Recursos/Imágenes/mao_thumb.png" width="90"/> | **Mao Arceni, Capcha Pumacahua** | Líder del equipo | Programación, análisis de datos, simulación |
-| <img src="Recursos/Imágenes/katherine_thumb.png" width="90"/> | **Cruz Oyarce Katherine Jireh** | Encargado de documentación  | comunicación científica y redacción técnica |
-| <img src="Recursos/Imágenes/lucero_thumb.png" width="90"/> | **Lucero Sofía Tarazona Gonzales** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="Recursos/Imágenes/renzo_thumb.png" width="90"/> | **Renzo Jair Cruz Vega** | Diseñador | Diseño de prototipos | Diseño de prototipos, creatividad aplicada |
-| <img src="Recursos/Imágenes/integrante1.png" width="90"/> | **Julio Maguiña** | --- | --- |
+| <img src="Recursos/Imágenes/Integrantes/mao.png" width="150" alt="Mao Arceni Capcha Pumacahua" /> | **Mao Arceni, Capcha Pumacahua** | Líder del equipo | Programación, análisis de datos, simulación |
+| <img src="Recursos/Imágenes/Integrantes/katherine.png" width="150" alt="Cruz Oyarce Katherine Jireh" /> | **Cruz Oyarce Katherine Jireh** | Encargado de documentación | comunicación científica y redacción técnica |
+| <img src="Recursos/Imágenes/Integrantes/lucero.png" width="150" alt="Lucero Sofía Tarazona Gonzales" /> | **Lucero Sofía Tarazona Gonzales** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="Recursos/Imágenes/Integrantes/renzo.png" width="150" alt="Renzo Jair Cruz Vega" /> | **Renzo Jair Cruz Vega** | Diseñador | Diseño de prototipos, creatividad aplicada |
+| <img src="Recursos/Imágenes/predeterminado.png" width="150" alt="Julio Maguiña" /> | **Julio Maguiña** | --- | --- |
 
 ---
 
-## 📌 Resumen Final  
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+## 📌 Resumen Final
+Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.

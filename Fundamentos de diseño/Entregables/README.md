@@ -1,7 +1,12 @@
 # Entregables
 
-En esta carpeta se deben presentar todos los entregables del proyecto.
+Aquí se guardan los documentos solicitados en cada etapa del curso.
 
-**Importante:** Todos los entregables deben estar en formato Markdown (.md) para asegurar la claridad, organización y facilidad de edición.
+## Formato recomendado
 
-Incluye aquí los documentos solicitados en cada etapa del proyecto, siguiendo las indicaciones y estructura establecida por el equipo docente.
+- Redactar cada entregable en Markdown (`.md`).
+- Nombrar los archivos con dos dígitos: `Entregable_01.md`, `Entregable_02.md`, etc.
+- Incluir fecha, integrantes participantes, desarrollo, resultados, evidencias y referencias cuando correspondan.
+- Agregar imágenes en `../../Recursos/Imágenes/` y enlazarlas mediante rutas relativas.
+
+Los archivos incluidos son plantillas iniciales y deben reemplazarse con el contenido solicitado por el equipo docente.

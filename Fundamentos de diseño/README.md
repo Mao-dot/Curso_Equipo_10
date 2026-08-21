@@ -1,9 +1,16 @@
-# FundDiseño
+# Fundamentos de Diseño
 
-Esta carpeta debe contener todo lo relacionado al avance del proyecto, incluyendo:
+Esta carpeta reúne el trabajo académico desarrollado durante el curso.
 
-- Documentación técnica y de entregables
-- Presentaciones
-- Informes de Talleres
+## Contenido
 
-Aquí se centraliza la información y los archivos necesarios para el desarrollo, seguimiento y presentación del proyecto, facilitando la organización y el acceso a los materiales relevantes.
+- [`Entregables/`](Entregables/): documentos evaluados y versiones finales de cada entrega.
+- [`Presentaciones de Proyecto/`](Presentaciones%20de%20Proyecto/): diapositivas, pósteres y archivos exportados a PDF.
+- [`Talleres/`](Talleres/): desarrollo y evidencias de las actividades realizadas en clase.
+
+## Convenciones
+
+- Usar nombres descriptivos y numerados, por ejemplo `Entregable_02.md` o `Taller_03.md`.
+- Preferir Markdown para la documentación editable.
+- No subir archivos vacíos; crear el archivo cuando exista contenido real.
+- Si se entrega un archivo editable, incluir también su versión PDF cuando corresponda.
