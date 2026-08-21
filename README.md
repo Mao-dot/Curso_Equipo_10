@@ -11,8 +11,6 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 ---
 
 ## 🎯 Objetivos de Desarrollo Sostenible (ODS)
-*(Aquí van los Objetivos de Desarrollo Sostenible seleccionados para el proyecto)*
-
 <p align="center">
   <img src="Recursos/Imágenes/ODS/ODS_7.png" width="130" alt="ODS 7: Energía Asequible y No Contaminante" />
   <img src="Recursos/Imágenes/ODS/ODS_11.png" width="130" alt="ODS 11: Ciudades y Comunidades Sostenibles" />
